@@ -8,6 +8,11 @@ I recognized the importance of this movement and its values, and wanted to find 
 
 My approach was to focus on empowering individuals and groups rather than offering a specific solution, with the belief that a "hive mind" approach could be the most effective way to address the climate crisis. Overall, the "Our Only Home" web application is a unique and innovative approach to addressing the climate crisis, and offers a valuable resource for individuals and organizations looking to make a positive impact on the environment.
 
+## Preview
+<img width="996" alt="Screenshot 2022-12-20 at 16 31 28" src="https://user-images.githubusercontent.com/61158193/208721734-60c98e4a-519a-4fde-810b-6fec1709dfff.png">
+
+<img width="992" alt="Screenshot 2022-12-20 at 17 51 12" src="https://user-images.githubusercontent.com/61158193/208721938-8296a357-ed3b-42b5-8270-118f2636c46b.png">
+
 ## Prerequisites
 Before you begin, make sure that you have the following tools installed on your machine:
 
